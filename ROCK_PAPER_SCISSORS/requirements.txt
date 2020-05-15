@@ -1,3 +1,5 @@
+If you are using anaconda then go to ananconda prompt and type conda list which shows all the downloaded packages.Then check these requirements in that list if not found install them by typing conda install "requirement".
+
 absl-py==0.7.1
 astor==0.8.0
 gast==0.2.2
